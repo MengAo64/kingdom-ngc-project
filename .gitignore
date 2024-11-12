@@ -1,0 +1,5 @@
+*.exe
+*.exe~
+isniper
+data/
+.DS_Store
